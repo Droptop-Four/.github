@@ -56,3 +56,8 @@
     <a href="https://discord.gg/aGQ6uE4Fgp">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>  
+
+<br>
+<p align="center">
+    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/droptop-four"><img src="https://badges.crowdin.net/droptop-four/localized.svg"></a>
+</p>
