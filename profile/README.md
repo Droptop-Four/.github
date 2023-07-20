@@ -2,37 +2,37 @@
 
 
 <!-- PROJECT LOGO -->
-<br>
+<br />
 <p align="center">
     <a href="https://droptopfour.com">
-        <img src="https://github.com/Droptop-Four/.github/assets/66331265/2bacd113-185c-4eee-89c2-eedb555b2b57"
+        <img src="https://user-images.githubusercontent.com/66331265/229708672-c7d87ba1-5493-4269-8740-0cee867dd1ab.png"
             alt="Logo"  style='height: 100%; width: 100%; object-fit: contain'>
     </a>
 </p>
+
 
 <!-- TITLE -->
 <h1 align="center">DROPTOP FOUR</h1>
 
 <!-- DROPTOP SITE -->
 <p align="center">
-    <a href="https://droptopfour.com"><img
-            src="https://img.shields.io/static/v1?label=Droptop+Four&message=Website&color=50AE5C&style=for-the-badge" alt="Droptop Four Website"></a>
-</p>
+    <a href="https://droptopfour.com"><img src="https://img.shields.io/static/v1?label=Droptop+Four&message=Website&color=50AE5C&style=for-the-badge" alt="Droptop Four Website"></a>
+</p>  
 
 <!-- INTRO -->
 <p align="center">
-    Droptop Four is the fourth iteration of the popular dropdown app launcher for Windows & Rainmeter. Droptop Four brings new features, plugins, themes, and improved compatibility with Windows 10.<br><br>
+    Droptop Four is the fourth iteration of the popular dropdown app launcher for Windows & Rainmeter. Droptop Four brings new features, plugins, themes, and improved compatibility with Windows 10 and Windows 11.<br><br>
     Droptop allows you to catalog your applications into scrollable groups by taking directory, filename, and icon information directly from any specified folder, allowing easy adding and removing shortcuts, renaming, and icon support through Windows. Easily drag & drop your shortcuts into Droptop's folders to add shortcuts, or rename, delete, or change a shortcut's icon all through the standard Windows interface.<br><br>
-    Feature and option-rich settings menu allow you full control over the appearance and functionality of your dropdown menus.
+    Feature and option-rich settings menu allow you full control over the appearance and functionality of your dropdown menus.<br><br>
 </p>
+
 
 <!-- DROPTOPFOUR DOWNLOAD -->
 <p align="center">
-    <a href="https://github.com/Droptop-Four/Basic-Version/releases/tag/Current-Stable"><img
-            src="https://img.shields.io/static/v1?label=Download&message=Droptop+Four&color=50AE5C&style=for-the-badge" alt="Download Droptop Four"></a>
+    <a href="https://github.com/Droptop-Four/Droptop-Four/releases/latest"><img src="https://img.shields.io/static/v1?label=Download&message=Droptop+Four&color=50AE5C&style=for-the-badge" alt="Download Droptop Four"></a>
 </p>  
 
-<!-- DROPTOPFOUR DISCORD -->
+
 <p><h2 align="center">Join the Community Now!!</h2></p>
 
 <!-- DISCORD BANNER -->
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-<!-- DROPTOPFOUR CONTACTS -->
+
 <p><h2 align="center">Contacts</h2></p>
 
 <!-- CONTACTS -->
@@ -56,8 +56,3 @@
     <a href="https://discord.gg/aGQ6uE4Fgp">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>  
-
-<br>
-<p align="center">
-    <a title="Crowdin" target="_blank" href="https://crowdin.com/project/droptop-four"><img src="https://badges.crowdin.net/droptop-four/localized.svg"></a>
-</p>
